@@ -1,9 +1,9 @@
 package org.lanqiao.pojo;
 
 /**    
- * @author ÁõË«Æ½
- * @date 2017Äê7ÔÂ22ÈÕ ÏÂÎç3:43:55 
- * @Description: TODO(ÓÃÒ»¾ä»°ÃèÊö¸ÃÎÄ¼ş×öÊ²Ã´)   
+ * @author åˆ˜åŒå¹³
+ * @date 2017å¹´7æœˆ22æ—¥ ä¸‹åˆ3:43:55 
+ * @Description: TODO(ç¬¬ä¸€æ¬¡ä½¿ç”¨gitä¸‹è½½é¡¹ç›®)   
  */
 public class UserInfo {
     private String name;
