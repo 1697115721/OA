@@ -6,8 +6,9 @@ package org.lanqiao.pojo;
  * @Description: TODO(第一次使用git下载项目)   
  */
 public class UserInfo {
+	
     private String name;
-
+   private int age;
 	public String getName() {
 		return name;
 	}
